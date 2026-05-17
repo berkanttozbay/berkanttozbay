@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;React+%2B+Node.js+Developer)](https://git.io/typing-svg)
+![footer]([https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=300&section=header&text=Berkant&fontSize=60&fontColor=ffffff](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Berkant%20Özbay&section=footer&reversal=true))
