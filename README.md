@@ -1,1 +1,1 @@
-![footer]([https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=300&section=header&text=Berkant&fontSize=60&fontColor=ffffff](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Berkant%20Özbay&section=footer&reversal=true))
+![header]([https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=300&section=header&text=Berkant&fontSize=60&fontColor=ffffff](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Berkant%20Özbay&section=footer&reversal=true))
